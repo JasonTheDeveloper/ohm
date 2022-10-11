@@ -109,8 +109,8 @@ Please use the following citation if you use OHM in your research.
 ```txt
 @ARTICLE{9849048,
   author={Stepanas, Kazys and Williams, Jason and Hern&#x00E1;ndez, Emili and Ruetz, Fabio and Hines, Thomas},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={OHM: GPU Based Occupancy Map Generation}, 
+  journal={IEEE Robotics and Automation Letters},
+  title={OHM: GPU Based Occupancy Map Generation},
   year={2022},
   volume={},
   number={},
